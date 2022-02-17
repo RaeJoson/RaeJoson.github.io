@@ -1,5 +1,5 @@
-Rae's Page
-Owned by Rae Frances A. Joson 
+# Rae's Page
+This page is owned by Rae Frances A. Joson of 9-Campion 
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
