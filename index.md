@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+# Welcome to Rae's page
+Owned by Rae Frances A. Joson
 
 You can use the [editor on GitHub](https://github.com/RaeJoson/RaeJoson.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
